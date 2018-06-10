@@ -12,8 +12,6 @@ Instructions:
 
 
 import os
-import sys
-import hashlib
 
 #creats the folders
 def creatFolders(rootdir, filetypes):
